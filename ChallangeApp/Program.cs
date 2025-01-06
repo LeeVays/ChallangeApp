@@ -16,13 +16,6 @@ else if (sex == "Male" && age < 18)
 {
     Console.WriteLine("Niepełnoletni mężczyzna");
 }
-else if (sex == "Male" && age < 18)
-{
-    Console.WriteLine("Niepełnoletni mężczyzna");
-}
-else
-{
 
-};
 
 
